@@ -1,10 +1,10 @@
-# WELCOME!
+## WELCOME!
 
-## Overview - Introduction to Data Science
+### Overview - Introduction to Data Science
 Welcome to Flatiron School’s Intro to Data Science.  We’re delighted that you have chosen to learn with us. In our 10-week, part-time course, you’ll learn the fundamentals of data science — including programming in Python, SQL, data visualization, and statistical analysis.
 Whether your goal is to bring advanced data analysis or programming skills into your current everyday data work or are exploring a career as a data scientist, this course is a great jumping off point. We are glad you are here!
 
-## EXPECTATIONS
+### Expectations
 Here's what to expect in your 10-week course:
 * Six hours per week of class time with your instructor and fellow students
 * Four extra hours of practice and homework on your own each week
@@ -12,10 +12,10 @@ Here's what to expect in your 10-week course:
 * Attend campus events to network with our community
 Each week your instructor will *"release"* the next week's set of assignments.
 
-## PREPARATION
+### Preparation
 No prior experience is required. You *do* need to sign up for an account with [GitHub](http://www.github.com/) though. Be sure to bring a computer and an open mind as well!
 
-## SYLLABUS
+### Syllabus
 * Week 1: Intro to Programming for Data Science
 * Week 2: Basic Data Visualization + Collections
 * Week 3: Functions + Conditionals
