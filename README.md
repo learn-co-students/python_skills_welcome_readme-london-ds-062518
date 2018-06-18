@@ -1,6 +1,6 @@
 ## WELCOME!
 
-### Overview - Introduction to Data Science
+### Introduction to Data Science
 Welcome to Flatiron School’s Intro to Data Science.  We’re delighted that you have chosen to learn with us. In our 10-week, part-time course, you’ll learn the fundamentals of data science — including programming in Python, SQL, data visualization, and statistical analysis.
 Whether your goal is to bring advanced data analysis or programming skills into your current everyday data work or are exploring a career as a data scientist, this course is a great jumping off point. We are glad you are here!
 
@@ -26,3 +26,5 @@ No prior experience is required. You *do* need to sign up for an account with [G
 * Week 8: Statistics: Distributions + Variables
 * Week 9: Linear Regression
 * Week 10: Advanced Regression Project
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/python_skills_welcome_lab'>Python Skills Welcome Readme</a> on Learn.co and start learning to code for free.</p>
