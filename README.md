@@ -10,7 +10,7 @@ Here's what to expect in your 10-week course:
 * Four extra hours of practice and homework on your own each week
 * Connect online day and night with our community of other students
 * Attend campus events to network with our community
-Each week your instructor will *"release"* the next week's set of assignments.
+* Each week your instructor will *"release"* the next week's set of assignments.
 
 ### Preparation
 No prior experience is required. You *do* need to sign up for an account with [GitHub](http://www.github.com/) though. Be sure to bring a computer and an open mind as well!
